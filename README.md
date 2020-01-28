@@ -2,7 +2,7 @@ DEMO DEPRECATED. See: https://github.com/lightstreams-network/go-lightstreams
 
 # Permissioned Blocks - Decentralized Storage with Privacy Controls for Public Blockchains
 
-[White Paper - Permissioned Blocks](https://github.com/autocontracts/permissioned-blocks/blob/master/whitepaper.md) 
+[White Paper - Permissioned Blocks](https://github.com/lightstreams-network/permissioned-blocks/blob/master/whitepaper.md) 
 
 The white paper above details the engineering design decisions for Permissioned Blocks. You can view a working demonstration of this technology in the following demo video, or you can install and run the demo with the instructions below.
 
