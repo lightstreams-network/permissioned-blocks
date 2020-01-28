@@ -1,6 +1,6 @@
-DEMO DEPRECATED. See: https://github.com/lightstreams/
+DEMO DEPRECATED. See: https://github.com/lightstreams-network/go-lightstreams
 
-# Permissioned Blocks - Bringing Privacy to Public Blockchains
+# Permissioned Blocks - Decentralized Storage with Privacy Controls for Public Blockchains
 
 [White Paper - Permissioned Blocks](https://github.com/autocontracts/permissioned-blocks/blob/master/whitepaper.md) 
 
